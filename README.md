@@ -18,8 +18,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 - **All Metrics(Total sales, Avg sales, No. of items, Avg rating and Item visibility) by Outlet Type**
 
 # Tools Used
-- MS SQL Server:  For initial data cleaning, data preparation and exploratory data analysis(EDA).
-- Power BI: For data visualization and dashboard creation.
+- **MS SQL Server**:  For initial data cleaning, data preparation and exploratory data analysis(EDA).
+- **Power BI**: For data visualization and dashboard creation.
 
 # Exploratory Data Analysis(EDA):
 1. What are the overall revenue generated from all items?
