@@ -25,11 +25,11 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 1. What are the overall revenue generated from all items?
 2. What are the average revenue per sales?
 3. How many different types of items were sold?
-4. What are the average ratings given by customer to the items sold/
+4. What are the average ratings given by customer to the items sold?
 5. Analyze the impact of fat content on total sales.
 6. How different types of item perform in terms of total sales?
 7. Compare total sales across different outlets segmented by fat content.
-8. How does sales vary by the age or type of outlet establlishment?
+8. How does sales vary by the age or type of outlet establishment?
 9. How does outlet size correlates with sales?
 10. Assess the geographical distribution of sales across different location.
 11. How are all key metrics broken down by different outlet types?
