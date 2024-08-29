@@ -36,7 +36,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 # Dashboard Overview
 
-![Blinkit Sales Dashboard](https://github.com/user-attachments/assets/8fb3be93-2598-4058-8047-a6cb9b272199)
+![Blinkit Sales Dashboard](https://github.com/user-attachments/assets/f25e665c-2d04-452c-b3a6-6c1630b91405)
 
 
 
