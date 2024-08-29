@@ -41,12 +41,12 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 
 # Results
-- Total sales reached $1.20M with an average sale of $141, encompassing 8553 items and an average customer rating of 3.9.
+- Total sales reached $1.20M with an average sale of $141, encompassing 8553 items and an average customer rating of 4.0.
 
 - Low-fat products were more popular than regular products. Fruits, vegetables, and snack foods were top-selling item types.
 
 - Tier 3 locations and medium-sized outlets generated the highest sales.
 
-- The average customer rating was 3.9, indicating generally positive feedback.
+- The average customer rating was 4.0, indicating generally positive feedback.
 
 - The year 2018 saw the highest sales, while 2011 was comparatively lower. Other years exhibited average performance.
